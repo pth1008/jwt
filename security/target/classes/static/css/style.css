@@ -1,0 +1,79 @@
+/* CSS Form Sign Up */
+body {
+    background-image: url(https://static.cand.com.vn/Files/Image/anbinh/2020/12/31/2b479c56-79af-4ec0-ab48-acead63d3d87.jpg);
+    background-size: cover;
+    height: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-top: 10px;
+}
+
+.container {
+    width: 560px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.signup-content {
+    background: #fff;
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+
+.form-group {
+    overflow: hidden;
+    margin-bottom: 20px; }
+
+.form-input {
+    width: 100%;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    padding: 17px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 500;
+    color: #222;
+}
+
+.form-submit {
+    width: 100%;
+    border-radius: 5px;
+    padding: 17px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+}
+
+.signupbtn {
+    background: #d4af7a;
+    width: 100%;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    padding: 17px 20px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: 500;
+    color: #222;
+}
+
+.loginhere {
+    color: #555;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.loginhere-link {
+    font-weight: 700;
+    color: #222; }
+
+/* CSS Form Login */
+.login-content {
+    background: #fff;
+    border-radius: 10px;
+    padding: 40px 40px;
+    margin-top: 60px;
+}
